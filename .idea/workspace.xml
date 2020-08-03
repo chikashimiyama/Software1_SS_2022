@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="" />
+    <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K3.md" beforeDir="false" afterPath="$PROJECT_DIR$/K3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K4/cello.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5.md" beforeDir="false" afterPath="$PROJECT_DIR$/K5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5/15.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5/16.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7.md" beforeDir="false" afterPath="$PROJECT_DIR$/K7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eudpCB8oHFoslad7Pw1vEWWaw4" />
   <component name="ProjectViewState">
@@ -15,8 +32,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/K1" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,10 +65,80 @@
       <updated>1595175591653</updated>
       <workItem from="1595175592888" duration="726000" />
       <workItem from="1595261223310" duration="6565000" />
+      <workItem from="1595775692737" duration="6065000" />
+      <workItem from="1595866335764" duration="5976000" />
+      <workItem from="1596053801186" duration="631000" />
+      <workItem from="1596141319899" duration="1061000" />
+      <workItem from="1596172794385" duration="1249000" />
+      <workItem from="1596272705515" duration="1318000" />
+      <workItem from="1596383533889" duration="7501000" />
+      <workItem from="1596396865545" duration="763000" />
+      <workItem from="1596445897131" duration="14207000" />
     </task>
+    <task id="LOCAL-00001" summary="add K1">
+      <created>1595782779248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595782779248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finish K1">
+      <created>1595877870649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595877870649</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <created>1596394131995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596394131995</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1596395889325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596395889325</updated>
+    </task>
+    <task id="LOCAL-00005" summary="video texture">
+      <created>1596450375880</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596450375880</updated>
+    </task>
+    <task id="LOCAL-00006" summary="complete K4">
+      <created>1596462895228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596462895228</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add K1" />
+    <MESSAGE value="finish K1" />
+    <MESSAGE value="add" />
+    <MESSAGE value="video texture" />
+    <MESSAGE value="complete K4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete K4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1596462895059">
+      <screen x="0" y="23" width="3200" height="1257" />
+    </state>
+    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596462895059" />
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1596450380955">
+      <screen x="0" y="23" width="3200" height="1257" />
+    </state>
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596450380955" />
   </component>
 </project>
