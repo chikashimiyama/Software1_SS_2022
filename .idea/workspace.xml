@@ -2,19 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K10.md" beforeDir="false" afterPath="$PROJECT_DIR$/K10.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/5.4.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/5.5.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/aufgabe.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/K3.md" beforeDir="false" afterPath="$PROJECT_DIR$/K3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K4/cello.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K5.md" beforeDir="false" afterPath="$PROJECT_DIR$/K5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K5/15.maxpat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K5/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K5/16.maxpat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K5/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K3/tipp.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K4.md" beforeDir="false" afterPath="$PROJECT_DIR$/K4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K7.md" beforeDir="false" afterPath="$PROJECT_DIR$/K7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.1.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.10.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.11.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.13.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.2.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.3.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.4.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.5.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.6.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.7.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.8.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/7.9.maxpat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +82,7 @@
       <workItem from="1596272705515" duration="1318000" />
       <workItem from="1596383533889" duration="7501000" />
       <workItem from="1596396865545" duration="763000" />
-      <workItem from="1596445897131" duration="14207000" />
+      <workItem from="1596445897131" duration="29184000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
@@ -117,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596462895228</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add">
+      <created>1596473996878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596473996878</updated>
+    </task>
+    <task id="LOCAL-00008" summary="video">
+      <created>1596488622361</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596488622361</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,19 +149,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add K1" />
     <MESSAGE value="finish K1" />
-    <MESSAGE value="add" />
     <MESSAGE value="video texture" />
     <MESSAGE value="complete K4" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete K4" />
+    <MESSAGE value="add" />
+    <MESSAGE value="video" />
+    <option name="LAST_COMMIT_MESSAGE" value="video" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1596462895059">
+    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1596488622082">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596462895059" />
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1596450380955">
+    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596488622082" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1596486851406">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596450380955" />
+    <state width="500" height="445" key="SwitcherDM/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596486851406" />
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1596488627838">
+      <screen x="0" y="23" width="3200" height="1257" />
+    </state>
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596488627838" />
   </component>
 </project>
