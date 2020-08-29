@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K10.md" beforeDir="false" afterPath="$PROJECT_DIR$/K10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5.md" beforeDir="false" afterPath="$PROJECT_DIR$/K5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,7 @@
       <workItem from="1596445897131" duration="40937000" />
       <workItem from="1596985115740" duration="2907000" />
       <workItem from="1597954663441" duration="12000" />
-      <workItem from="1598689614146" duration="11059000" />
+      <workItem from="1598689614146" duration="12118000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
@@ -186,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598713089404</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add path">
+      <created>1598714594303</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1598714594303</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add">
+      <created>1598714639510</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1598714639510</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +215,7 @@
     <MESSAGE value="complete K4" />
     <MESSAGE value="video" />
     <MESSAGE value="complete K2" />
+    <MESSAGE value="add path" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
