@@ -6,7 +6,9 @@
       <change beforePath="$PROJECT_DIR$/K4.md" beforeDir="false" afterPath="$PROJECT_DIR$/K4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K5.md" beforeDir="false" afterPath="$PROJECT_DIR$/K5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7.md" beforeDir="false" afterPath="$PROJECT_DIR$/K7.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K9.md" beforeDir="false" afterPath="$PROJECT_DIR$/K9.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,10 @@
       <workItem from="1596272705515" duration="1318000" />
       <workItem from="1596383533889" duration="7501000" />
       <workItem from="1596396865545" duration="763000" />
-      <workItem from="1596445897131" duration="40871000" />
+      <workItem from="1596445897131" duration="40937000" />
+      <workItem from="1596985115740" duration="2907000" />
+      <workItem from="1597954663441" duration="12000" />
+      <workItem from="1598689614146" duration="5780000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
@@ -158,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596554922808</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add">
+      <created>1596560110738</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596560110738</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add">
+      <created>1596988692367</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596988692367</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,18 +194,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1596554922714">
+    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1596988692180">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596554922714" />
+    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596988692180" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1596543217179">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596543217179" />
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1596554929742">
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1596988696774">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596554929742" />
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596988696774" />
     <state x="1904" y="321" key="run.anything.popup" timestamp="1596551447176">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
