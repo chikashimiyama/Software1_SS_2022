@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K10.md" beforeDir="false" afterPath="$PROJECT_DIR$/K10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K11.md" beforeDir="false" afterPath="$PROJECT_DIR$/K11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K12.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K7.md" beforeDir="false" afterPath="$PROJECT_DIR$/K7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K9.md" beforeDir="false" afterPath="$PROJECT_DIR$/K9.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +65,7 @@
       <workItem from="1596445897131" duration="40937000" />
       <workItem from="1596985115740" duration="2907000" />
       <workItem from="1597954663441" duration="12000" />
-      <workItem from="1598689614146" duration="19135000" />
+      <workItem from="1598689614146" duration="23085000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
@@ -212,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598715700405</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add k9">
+      <created>1598777213353</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1598777213353</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,21 +230,22 @@
     <MESSAGE value="add path" />
     <MESSAGE value="add" />
     <MESSAGE value="add matbrowse" />
-    <option name="LAST_COMMIT_MESSAGE" value="add matbrowse" />
+    <MESSAGE value="add k9" />
+    <option name="LAST_COMMIT_MESSAGE" value="add k9" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1598715700305">
+    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1598777213207">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1598715700305" />
+    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1598777213207" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1596543217179">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1596543217179" />
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1598715701672">
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1598777214525">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1598715701672" />
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1598777214525" />
     <state x="1904" y="321" key="run.anything.popup" timestamp="1596551447176">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
