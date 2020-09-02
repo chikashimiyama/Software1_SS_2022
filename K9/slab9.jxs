@@ -1,0 +1,32 @@
+<jittershader name="default">
+	<description> Default Slab </description>
+	<param name="freq" type="vec3" />
+	<language name="glsl" version="1.0">
+		<bind param="freq" program="fp" />
+		<program name="vp" type="vertex">
+<![CDATA[
+varying vec2 texcoord;
+void main (void)
+{
+    gl_Position = ftransform();
+    texcoord    = vec2(gl_TextureMatrix[0] * gl_MultiTexCoord0);
+}
+]]>		
+		</program>
+		<program name="fp" type="fragment">
+<![CDATA[
+varying vec2 texcoord;
+uniform vec3 freq;
+
+void main(void) 
+{
+	float red = sin(texcoord.x * freq.r) * 0.5 + 0.5;
+	float green = sin(texcoord.x * freq.g) * 0.5 + 0.5;
+	float blue = sin(texcoord.x * freq.b) * 0.5 + 0.5;
+
+	gl_FragColor = vec4(red, green, blue, 1.0);
+}
+]]>
+		</program>
+	</language>
+</jittershader>
