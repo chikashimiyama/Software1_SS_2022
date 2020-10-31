@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1.md" beforeDir="false" afterPath="$PROJECT_DIR$/K1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11.md" beforeDir="false" afterPath="$PROJECT_DIR$/K11.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,8 @@
       <workItem from="1599161778200" duration="3893000" />
       <workItem from="1599293621255" duration="11816000" />
       <workItem from="1599378385814" duration="6631000" />
-      <workItem from="1599470251478" duration="619000" />
+      <workItem from="1599470251478" duration="3309000" />
+      <workItem from="1604165949071" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
@@ -291,14 +294,27 @@
       <option name="project" value="LOCAL" />
       <updated>1599419872368</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add K11">
+      <created>1599471020820</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1599471020820</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add K1">
+      <created>1604166079050</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1604166079050</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add K1" />
     <MESSAGE value="finish K1" />
     <MESSAGE value="video texture" />
     <MESSAGE value="complete K4" />
@@ -311,21 +327,23 @@
     <MESSAGE value="add" />
     <MESSAGE value="add K8" />
     <MESSAGE value="add K5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add K5" />
+    <MESSAGE value="add K11" />
+    <MESSAGE value="add K1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add K1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1599419872239">
+    <state x="1448" y="301" key="CommitChangelistDialog2" timestamp="1604166078906">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1599419872239" />
+    <state x="1448" y="301" key="CommitChangelistDialog2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1604166078906" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1599388786433">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1599388786433" />
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1599419873437">
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2" timestamp="1604166080847">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
-    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1599419873437" />
+    <state x="1480" y="441" key="Vcs.Push.Dialog.v2/0.23.3200.1257/-1792.23.1792.1097@0.23.3200.1257" timestamp="1604166080847" />
     <state x="1904" y="321" key="run.anything.popup" timestamp="1596551447176">
       <screen x="0" y="23" width="3200" height="1257" />
     </state>
