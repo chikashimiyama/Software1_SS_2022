@@ -3,9 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/park.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/K11.md" beforeDir="false" afterPath="$PROJECT_DIR$/K11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/1.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/2.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/expr.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/mop.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/mop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11/mop_gen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +26,16 @@
   <component name="ProjectId" id="1eudpCB8oHFoslad7Pw1vEWWaw4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -44,6 +54,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -78,7 +89,10 @@
       <workItem from="1599470251478" duration="3309000" />
       <workItem from="1604165949071" duration="529000" />
       <workItem from="1606380892329" duration="12000" />
-      <workItem from="1610959355028" duration="268000" />
+      <workItem from="1610959355028" duration="705000" />
+      <workItem from="1647806973184" duration="325000" />
+      <workItem from="1647807319726" duration="128000" />
+      <workItem from="1647850576545" duration="2257000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
@@ -329,7 +343,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish K1" />
