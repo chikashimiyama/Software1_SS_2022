@@ -1,4 +1,4 @@
-Jitter fuer Live-Performamnce
+## Jitter fuer Einsteiger
 
 Semesteraufgabe:
 
