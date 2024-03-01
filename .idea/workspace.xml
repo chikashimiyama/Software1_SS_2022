@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7607152-705f-4e79-9b5c-ae45389cbdc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/K4/a6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K5/camera.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K3.md" beforeDir="false" afterPath="$PROJECT_DIR$/K3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K4.md" beforeDir="false" afterPath="$PROJECT_DIR$/K4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K5.md" beforeDir="false" afterPath="$PROJECT_DIR$/K5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +33,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/K4" />
       <recent name="$PROJECT_DIR$/K5" />
+      <recent name="$PROJECT_DIR$/K4" />
       <recent name="$PROJECT_DIR$/K3" />
       <recent name="$PROJECT_DIR$/K2" />
       <recent name="$PROJECT_DIR$/K1" />
@@ -92,7 +92,7 @@
       <workItem from="1647807319726" duration="128000" />
       <workItem from="1647850576545" duration="2564000" />
       <workItem from="1648453856239" duration="114000" />
-      <workItem from="1709173521036" duration="17909000" />
+      <workItem from="1709173521036" duration="19599000" />
     </task>
     <task id="LOCAL-00001" summary="add K1">
       <created>1595782779248</created>
